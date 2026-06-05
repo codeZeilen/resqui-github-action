@@ -40,3 +40,7 @@ runs:
           RESQUI_ARGS="$RESQUI_ARGS -d $DASHVERSE_TOKEN"
         fi
         resqui $RESQUI_ARGS
+
+branding:
+  icon: 'bar-chart-2'
+  color: 'purple'
