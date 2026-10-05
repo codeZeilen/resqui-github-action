@@ -2,7 +2,7 @@ name: 'Run resqui'
 description: 'Installs resqui and runs it to assess research software quality indicators at version v0.2.0.'
 inputs:
   config:
-    description: 'Path to the configuration file (e.g., configurations/basic.json)'
+    description: 'Path to the configuration.. file (e.g., configurations/basic.json)'
     required: false
   github_token:
     description: 'GitHub token required for some indicator plugins.'
